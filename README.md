@@ -16,6 +16,8 @@
 
 # 👨‍💻 TryHackMe Stats:
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mikomik.png" alt="TryHackMe">
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
