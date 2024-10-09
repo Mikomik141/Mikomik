@@ -12,7 +12,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 👨‍💻 TryHackMe Stats:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mikomik.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mikomik.png" alt="Your Image Badge" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
